@@ -383,12 +383,11 @@ class johnTool_SMS_SYSTEM:
         banner = [
             "╔═╗╔╦╗╔═╗   ╔╦╗╔═╗╔╗╔╦ ╦",
             "╚═╗║║║╚═╗   ║║║║╣ ║║║║ ║",
-            "╚═╝╩ ╩╚═╝   ╩ ╩╚═╝╝╚╝╚═╝",
-            print("\033[36m   ᴊᴏʜɴ ᴍɪᴄʜᴀᴇʟ ᴄᴜᴛᴇ\033")
+            "╚═╝╩ ╩╚═╝   ╩ ╩╚═╝╝╚╝╚═╝"
         ]
         for line in banner:
             print(line)
-    
+        print("\n\033[1;31m  ᴊᴏʜɴ ᴍɪᴄʜᴀᴇʟ ᴄᴜᴛᴇ\n")
         print("\n\033[1;33m [1]  ➤ RANDOM MESSAGES BOMB       [9]  ➤ Pickup Coffee")
         print("\033[1;33m [2]  ➤ LBC                        [10] ➤ HoneyLoan")
         print("\033[1;33m [3]  ➤ S5.com                     [11] ➤ Kumu")
